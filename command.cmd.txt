@@ -2,7 +2,7 @@
 cd                              (change directory EX. ~/Desktop (linux) from directory to desktop directory)
 cd..                            (change directory move out from current to parent directory)
 touch                           (will make a new empty file EX. touch example.txt or example\ space.js)
-mkdir + (title)                 (making new folders EX. mkdir word-docs)
+mkdir sampleDirectory           (making new folders EX. mkdir word-docs)
 history                         (view history of recently typed command)
 SAMPLE
 
@@ -57,6 +57,12 @@ grep in the command line to short somehthing in a file
 2. grep -i Sam name.txt         - -i  flag will ignore the case sensitivity and will return both sam with capital and small S. (Samuel, Rosamond)
 3. grep -w Sam names.txt        -  -w flag will return the specific input or asked. in this case Sam will only return (Sam).
 4. ls /bin | grep zip           -using pipe and grep on a director will return a smaller result that matches the asked grep
+
+Cloning repository from github to local
+git-bash to window
+1. mkdir projectFolder (create folder)
+2. cd projectFolder  (to direct on the folder)
+3. git clone "Then paste the HTTPs URL from GITHUB" (to clone the project to local from hithub)
 
 Instructions
 Step 1: Open Terminal in your VS code editor.  
