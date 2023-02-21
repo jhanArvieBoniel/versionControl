@@ -78,3 +78,6 @@ Step 16: Type the command cd ../dir2 and press Enter.
 Step 17: Type the command ls -l and press Enter. Note how many files and directories are in the dir2 directory.
 Step 18: Type the command cd dir3 and press Enter.
 Step 19: Type the command ls -l and press Enter. Note how many files and directories are in the dir3 directory.
+
+
+pulling test
