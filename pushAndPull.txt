@@ -1,0 +1,12 @@
+Pushing your file to remote repository
+    This is to update the repository online.
+1. git status                   (to check if there is to push or pull)
+2. git push origin main         (pushing file to the main)
+3. promp: sampleUser            (will be ask to type Username)
+4. promp: samplePassword        (file is pushed and refreshed the github webpage.)
+5.  (finish)
+
+
+Pulling files/changes from repository to local
+"Assume that you changed something in your repository on github"
+1. git pull                     (shows if there is changes and will automatically added on the local.)
