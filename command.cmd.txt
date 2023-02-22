@@ -64,6 +64,10 @@ git-bash to window
 2. cd projectFolder  (to direct on the folder)
 3. git clone "Then paste the HTTPs URL from GITHUB" (to clone the project to local from hithub)
 
+editing a file
+1. vim Readme.md                    (cmd for editing file)
+2. wq!                              (exit editing)
+
 Instructions
 Step 1: Open Terminal in your VS code editor.  
 Step 2: Type the command mkdir lab and press Enter
