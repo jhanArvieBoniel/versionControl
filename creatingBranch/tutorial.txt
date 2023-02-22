@@ -9,7 +9,7 @@ git-bash to window
 7 touch text.txt        (to add file)
 8. git status           (to check if there is changes or untracked file)
 9. git add text.txt     (to commit the file)
-10. git add ..           (to commit all)
+10. git add .           (to commit all)
 11. git restore --stage test.txt (untracked or removing the file)
 12. git commit -m "sample message" (-m flag is for adding message to the commit file then press return)
 13. git push            (will push the commit to the server)
