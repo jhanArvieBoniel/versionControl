@@ -9,7 +9,7 @@ This is also related to which branch you are working on
 
 1. cd .git                  (opening the directory)
 2. cat refs/heads/main      (to view the text inside the file/directory)
-3. 213123dsample3132123     (return a link a like ID)
+3. 213123dsample3132123     (return a link a like ID. This ID change everytime you commit a project)
 
 moving the HEAD to branches
 1. git checkout -b testing (creating a branch assuming there is no a branch)
