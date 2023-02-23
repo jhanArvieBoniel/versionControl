@@ -17,3 +17,9 @@ checking for spceific LINE changes in  a file.
 
 changing the output itself MORE detailed using -l flag
 1. git blame -l sample.txt          (more detailed output)
+
+Using hash ID - seeing the changes more detailed
+1. git blame sample.txt             (output te changes)
+2. (copy the ID of the file you want to check)
+3. press q                          (exit the list)
+4. git log -p 123132ID              (flag will print the changes accured in the ID)
